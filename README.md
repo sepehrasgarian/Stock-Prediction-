@@ -6,4 +6,5 @@ Finally, in the fourth phase, we extract price fluctuations for each stock symbo
 In this project, we have tested our approaches to a total of 24 Nasdaq stocks. Moreover, the results and methodology are available in the report section.
 
 Here is a youtube link for this project: https://youtu.be/D6BLZUh3QHY
+
 This Projct is developed by: Sepehr Asgarian and Rouzbeh MeshkinNejad
